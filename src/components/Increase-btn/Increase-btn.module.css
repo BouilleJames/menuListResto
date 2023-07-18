@@ -1,0 +1,12 @@
+button.btnIncrease {
+  background-color: #2adb65;
+  border: 1px solid #0ef47a;
+  border-radius: 5px;
+  padding: 5px 10px;
+  cursor: pointer;
+  margin-right: 10px;
+  font-size: 20px;
+  font-weight: 700;
+  color: #bf0606;
+  transition: all 0.3s ease-in-out;
+}
